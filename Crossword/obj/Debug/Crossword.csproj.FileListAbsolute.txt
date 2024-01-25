@@ -1,0 +1,12 @@
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.Form2.resources
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\Laila Porter\OneDrive - rit.edu\Desktop\Personal Projects\crossword\Crossword\obj\Debug\Crossword.pdb
